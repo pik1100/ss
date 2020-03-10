@@ -1,2 +1,2 @@
 # ss
-tutorial repository
+Hi I am ss
